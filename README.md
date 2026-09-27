@@ -1,6 +1,6 @@
 # Snake
 
-A classic grid-based Snake game built with pygame — a 480x480 window on a 30px grid, running at 8 FPS.
+A classic Snake game built with pygame on a grid, using a 480x480 window with a 30 pixel grid, running at 8 frames per second.
 
 ## Requirements
 ```
